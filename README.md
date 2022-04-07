@@ -41,3 +41,5 @@ Node.js
 #### 환경변수 설정
 
 > C:\Program Files\PostgreSQL\14\bin>
+
+
